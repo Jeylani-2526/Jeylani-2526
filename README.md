@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeylani-2526
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Computer Engineering at BANU
+- 🌱 I finished Computer Engineering at BANU
 - 📫 How to reach me: abdallamuhammed07@gmail.com
 - ⚡ Fun fact: I Love Reading & Movies
 
